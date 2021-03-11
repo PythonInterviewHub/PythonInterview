@@ -46,8 +46,6 @@
 * [44.如何交换字典 {“A”：1,“B”：2}的键和值](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#44如何交换字典-a1b2的键和值)
 * [45.切片Slice](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#45切片slice)
 * [46.什么是切片](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#46什么是切片)
-* [step = 1](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#step--1)
-* [step &gt; 1](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#step--1-1)
 * [47.元组的定义](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#47元组的定义)
 * [48.字符串的三种引号](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#48字符串的三种引号)
 * [49.字典dict访问](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#49字典dict访问)
