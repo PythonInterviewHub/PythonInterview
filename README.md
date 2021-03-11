@@ -2,7 +2,6 @@
 ## Python基础
 * [1.为什么学习Python](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#1为什么学习python)
 * [2.Python和其他语言的区别](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#2python和其他语言的区别)
-* [从三个方面看Python](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#从三个方面看python)
 * [3.Python的优势](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#3python的优势)
 * [4.Python的解释器种类？](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#4python的解释器种类)
 * [5.python2和python3区别](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#5python2和python3区别)
