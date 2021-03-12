@@ -1,4 +1,12 @@
 
+这个Repo主要用来分享Python面试题，目前已经涵盖Python基础、Python面向对象、Python进阶、Python爬虫、Python Web开发、Python数据库编程等内容，后续还会不断更新。
+
+如果对于有所帮助，可以给个star。有纰漏的地方，欢迎给我们提PR。
+
+如果想获取本Repo的PDF版本，可以用微信扫描下方二维码，回复 “pdf” ，即可获取。
+
+![Python技术之家](https://gitee.com/PythonInterviewHub/PythonInterview/raw/main/imgs/Python%E6%8A%80%E6%9C%AF%E4%B9%8B%E5%AE%B6.jpg)
+
 ## Python基础
 * [1.为什么学习Python](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#1为什么学习python)
 * [2.Python和其他语言的区别](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#2python和其他语言的区别)
