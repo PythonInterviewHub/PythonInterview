@@ -4,8 +4,11 @@
 如果对于有所帮助，可以给个star。有纰漏的地方，欢迎给我们提PR。
 
 如果想获取本Repo的PDF版本，可以用微信扫描下方二维码，回复 “pdf” ，即可获取。
+如果二维码加载不出来，可以在微信搜索公众号 “Python技术之家”，回复 “pdf” ，即可获取PDF版本。
 
 ![Python技术之家](https://gitee.com/PythonInterviewHub/PythonInterview/raw/main/imgs/Python%E6%8A%80%E6%9C%AF%E4%B9%8B%E5%AE%B6.jpg)
+
+
 
 ## Python基础
 * [1.为什么学习Python](https://github.com/PythonInterviewHub/PythonInterview/blob/main/Python基础.md#1为什么学习python)
